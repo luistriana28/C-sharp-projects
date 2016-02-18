@@ -1,0 +1,5 @@
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb

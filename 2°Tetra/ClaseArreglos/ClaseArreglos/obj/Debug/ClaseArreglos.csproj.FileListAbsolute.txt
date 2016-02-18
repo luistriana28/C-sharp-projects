@@ -1,0 +1,10 @@
+c:\users\luismartin\documents\visual studio 2012\Projects\ClaseArreglos\ClaseArreglos\bin\Debug\ClaseArreglos.dll
+c:\users\luismartin\documents\visual studio 2012\Projects\ClaseArreglos\ClaseArreglos\bin\Debug\ClaseArreglos.pdb
+c:\users\luismartin\documents\visual studio 2012\Projects\ClaseArreglos\ClaseArreglos\obj\Debug\ClaseArreglos.csprojResolveAssemblyReference.cache
+c:\users\luismartin\documents\visual studio 2012\Projects\ClaseArreglos\ClaseArreglos\obj\Debug\ClaseArreglos.dll
+c:\users\luismartin\documents\visual studio 2012\Projects\ClaseArreglos\ClaseArreglos\obj\Debug\ClaseArreglos.pdb
+E:\ClaseArreglos\ClaseArreglos\bin\Debug\ClaseArreglos.dll
+E:\ClaseArreglos\ClaseArreglos\bin\Debug\ClaseArreglos.pdb
+E:\ClaseArreglos\ClaseArreglos\obj\Debug\ClaseArreglos.csprojResolveAssemblyReference.cache
+E:\ClaseArreglos\ClaseArreglos\obj\Debug\ClaseArreglos.dll
+E:\ClaseArreglos\ClaseArreglos\obj\Debug\ClaseArreglos.pdb

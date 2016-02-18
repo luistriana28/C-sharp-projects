@@ -1,0 +1,4 @@
+C:\Users\raul\Documents\garay 2 cuatri\windows form\3metodos\3metodos\bin\Debug\3metodos.dll
+C:\Users\raul\Documents\garay 2 cuatri\windows form\3metodos\3metodos\bin\Debug\3metodos.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\3metodos\3metodos\obj\Debug\3metodos.dll
+C:\Users\raul\Documents\garay 2 cuatri\windows form\3metodos\3metodos\obj\Debug\3metodos.pdb

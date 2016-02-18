@@ -1,0 +1,14 @@
+F:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\bin\Debug\Practica de Consola.exe
+F:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\bin\Debug\Practica de Consola.pdb
+F:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\Practica de Consola.exe
+F:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\Practica de Consola.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\Practica de Consola.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\Practica de Consola.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\bin\Debug\Practica de Consola.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\bin\Debug\Practica de Consola.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\Practica de Consola.exe
+H:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\Practica de Consola.pdb
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\Practica de Consola.exe
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Practica de Consola\Practica de Consola\obj\x86\Debug\Practica de Consola.pdb

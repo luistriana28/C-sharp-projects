@@ -1,0 +1,7 @@
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 13\Trabajo 13\bin\Debug\Trabajo 13.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 13\Trabajo 13\bin\Debug\Trabajo 13.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 13\Trabajo 13\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 13\Trabajo 13\obj\x86\Debug\Trabajo 13.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 13\Trabajo 13\obj\x86\Debug\Trabajo 13.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 13\Trabajo 13\obj\x86\Debug\Trabajo 13.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 13\Trabajo 13\obj\x86\Debug\Trabajo 13.pdb

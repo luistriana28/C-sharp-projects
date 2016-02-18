@@ -1,0 +1,25 @@
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Contactos\Contactos\bin\Debug\Contactos.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Contactos\Contactos\bin\Debug\Contactos.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Contactos\Contactos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Contactos\Contactos\obj\x86\Debug\Contactos.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Contactos\Contactos\obj\x86\Debug\Contactos.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Contactos\Contactos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Contactos\Contactos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Contactos\Contactos\obj\x86\Debug\Contactos.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Contactos\Contactos\obj\x86\Debug\Contactos.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\obj\x86\Debug\Contactos.exe
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\obj\x86\Debug\Contactos.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\bin\Debug\Contactos BD.mdf
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\bin\Debug\Contactos BD_log.ldf
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\bin\Debug\Contactos.exe
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\bin\Debug\Contactos.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\obj\x86\Debug\Contactos.Form1.resources
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\obj\x86\Debug\Contactos.Properties.Resources.resources
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\bin\Debug\Contactos.exe.config
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\bin\Debug\Contactos.exe.manifest
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\bin\Debug\Contactos.application
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\obj\x86\Debug\Contactos.exe.manifest
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Contactos\Contactos\obj\x86\Debug\Contactos.application

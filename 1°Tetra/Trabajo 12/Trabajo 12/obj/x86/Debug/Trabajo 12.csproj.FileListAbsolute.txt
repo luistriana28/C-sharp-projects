@@ -1,0 +1,9 @@
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 12\Trabajo 12\bin\Debug\Trabajo 12.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 12\Trabajo 12\bin\Debug\Trabajo 12.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 12\Trabajo 12\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 12\Trabajo 12\obj\x86\Debug\Trabajo 12.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 12\Trabajo 12\obj\x86\Debug\Trabajo 12.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 12\Trabajo 12\obj\x86\Debug\Trabajo 12.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 12\Trabajo 12\obj\x86\Debug\Trabajo 12.pdb
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 12\Trabajo 12\obj\x86\Debug\Trabajo 12.exe
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 12\Trabajo 12\obj\x86\Debug\Trabajo 12.pdb

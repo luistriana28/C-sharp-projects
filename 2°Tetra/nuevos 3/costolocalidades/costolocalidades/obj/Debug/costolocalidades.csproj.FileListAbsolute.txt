@@ -1,0 +1,5 @@
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\costolocalidades\costolocalidades\bin\Debug\costolocalidades.dll
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\costolocalidades\costolocalidades\bin\Debug\costolocalidades.pdb
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\costolocalidades\costolocalidades\obj\Debug\costolocalidades.dll
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\costolocalidades\costolocalidades\obj\Debug\costolocalidades.pdb
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\costolocalidades\costolocalidades\obj\Debug\costolocalidades.csprojResolveAssemblyReference.cache

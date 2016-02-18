@@ -1,0 +1,9 @@
+J:\metodo3\metodo3\bin\Debug\metodo3.exe
+J:\metodo3\metodo3\bin\Debug\metodo3.pdb
+J:\metodo3\metodo3\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\metodo3\metodo3\obj\x86\Debug\metodo3.exe
+J:\metodo3\metodo3\obj\x86\Debug\metodo3.pdb
+F:\metodo3\metodo3\obj\x86\Debug\metodo3.exe
+F:\metodo3\metodo3\obj\x86\Debug\metodo3.pdb
+D:\UTT\2°Tetra\Programacion\metodo3\metodo3\obj\x86\Debug\metodo3.exe
+D:\UTT\2°Tetra\Programacion\metodo3\metodo3\obj\x86\Debug\metodo3.pdb

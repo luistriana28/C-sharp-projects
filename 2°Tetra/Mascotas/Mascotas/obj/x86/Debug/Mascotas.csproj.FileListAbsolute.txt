@@ -1,0 +1,7 @@
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Mascotas\Mascotas\bin\Debug\Mascotas.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Mascotas\Mascotas\bin\Debug\Mascotas.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Mascotas\Mascotas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Mascotas\Mascotas\obj\x86\Debug\Mascotas.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Mascotas\Mascotas\obj\x86\Debug\Mascotas.pdb
+D:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Mascotas\Mascotas\obj\x86\Debug\Mascotas.exe
+D:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Mascotas\Mascotas\obj\x86\Debug\Mascotas.pdb

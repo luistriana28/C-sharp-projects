@@ -1,0 +1,27 @@
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.exe
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.pdb
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.exe
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.exe
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.pdb
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.exe
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 40\Trabajo 40\bin\Debug\Trabajo 40.pdb
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.csprojResolveAssemblyReference.cache
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.exe
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 40\Trabajo 40\obj\x86\Debug\Trabajo 40.pdb

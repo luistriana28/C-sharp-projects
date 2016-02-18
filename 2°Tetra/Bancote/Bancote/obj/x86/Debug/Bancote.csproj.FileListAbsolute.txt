@@ -1,0 +1,42 @@
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\bin\Debug\Bancote.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\bin\Debug\Bancote.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.Form1.resources
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.Properties.Resources.resources
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.Form1.resources
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.Properties.Resources.resources
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\bin\Debug\Bancote.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\bin\Debug\Bancote.pdb
+N:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\Bancote.exe
+N:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\Bancote.pdb
+N:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\bin\Debug\Bancote.exe
+N:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\bin\Debug\Bancote.pdb
+N:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\Bancote.Form1.resources
+N:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\Bancote.Properties.Resources.resources
+N:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\Bancote.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\Bancote.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\bin\Debug\Bancote.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\bin\Debug\Bancote.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\Bancote.Form1.resources
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\Bancote.Properties.Resources.resources
+F:\Bancote\Bancote\obj\x86\Debug\Bancote.exe
+F:\Bancote\Bancote\obj\x86\Debug\Bancote.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Bancote\Bancote\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.exe
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.exe
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Bancote\Bancote\obj\x86\Debug\Bancote.pdb

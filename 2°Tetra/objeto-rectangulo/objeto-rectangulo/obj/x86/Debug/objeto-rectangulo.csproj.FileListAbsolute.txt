@@ -1,0 +1,5 @@
+F:\objeto-rectangulo\objeto-rectangulo\bin\Debug\objeto-rectangulo.exe
+F:\objeto-rectangulo\objeto-rectangulo\bin\Debug\objeto-rectangulo.pdb
+F:\objeto-rectangulo\objeto-rectangulo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\objeto-rectangulo\objeto-rectangulo\obj\x86\Debug\objeto-rectangulo.exe
+F:\objeto-rectangulo\objeto-rectangulo\obj\x86\Debug\objeto-rectangulo.pdb

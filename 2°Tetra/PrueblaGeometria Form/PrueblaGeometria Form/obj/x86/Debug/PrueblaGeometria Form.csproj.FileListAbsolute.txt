@@ -1,0 +1,23 @@
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\bin\Debug\PrueblaGeometria Form.exe
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\bin\Debug\PrueblaGeometria Form.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria_Form.Form1.resources
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria_Form.Properties.Resources.resources
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria Form.csproj.GenerateResource.Cache
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria Form.exe
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria Form.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\bin\Debug\LibreriaGeometria.dll
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\bin\Debug\LibreriaGeometria.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria Form.csprojResolveAssemblyReference.cache
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria Form.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria Form.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\bin\Debug\PrueblaGeometria Form.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\bin\Debug\PrueblaGeometria Form.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\bin\Debug\LibreriaGeometria.dll
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\bin\Debug\LibreriaGeometria.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria_Form.Form1.resources
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria_Form.Properties.Resources.resources
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria Form.exe
+D:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\PrueblaGeometria Form\PrueblaGeometria Form\obj\x86\Debug\PrueblaGeometria Form.pdb

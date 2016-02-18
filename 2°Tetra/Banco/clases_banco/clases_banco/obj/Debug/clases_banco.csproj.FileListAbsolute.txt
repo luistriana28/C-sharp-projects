@@ -1,0 +1,8 @@
+C:\Users\juanC\Desktop\clases_banco\clases_banco\bin\Debug\clases_banco.dll
+C:\Users\juanC\Desktop\clases_banco\clases_banco\bin\Debug\clases_banco.pdb
+C:\Users\juanC\Desktop\clases_banco\clases_banco\obj\Debug\clases_banco.dll
+C:\Users\juanC\Desktop\clases_banco\clases_banco\obj\Debug\clases_banco.pdb
+C:\Users\juanC\Documents\Todo lo de programacion\clases_banco\clases_banco\bin\Debug\clases_banco.dll
+C:\Users\juanC\Documents\Todo lo de programacion\clases_banco\clases_banco\bin\Debug\clases_banco.pdb
+C:\Users\juanC\Documents\Todo lo de programacion\clases_banco\clases_banco\obj\Debug\clases_banco.dll
+C:\Users\juanC\Documents\Todo lo de programacion\clases_banco\clases_banco\obj\Debug\clases_banco.pdb

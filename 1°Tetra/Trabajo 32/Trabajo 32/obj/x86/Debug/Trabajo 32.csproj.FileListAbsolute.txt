@@ -1,0 +1,7 @@
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 32\Trabajo 32\bin\Debug\Trabajo 32.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 32\Trabajo 32\bin\Debug\Trabajo 32.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 32\Trabajo 32\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 32\Trabajo 32\obj\x86\Debug\Trabajo 32.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 32\Trabajo 32\obj\x86\Debug\Trabajo 32.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 32\Trabajo 32\obj\x86\Debug\Trabajo 32.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 32\Trabajo 32\obj\x86\Debug\Trabajo 32.pdb

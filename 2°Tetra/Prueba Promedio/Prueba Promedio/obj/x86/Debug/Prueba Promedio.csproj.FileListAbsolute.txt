@@ -1,0 +1,11 @@
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\bin\Debug\Prueba Promedio.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\bin\Debug\Prueba Promedio.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\obj\x86\Debug\Prueba_Promedio.Form1.resources
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\obj\x86\Debug\Prueba_Promedio.Properties.Resources.resources
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\obj\x86\Debug\Prueba Promedio.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\obj\x86\Debug\Prueba Promedio.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\bin\Debug\LibreriaPromed.dll
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Prueba Promedio\Prueba Promedio\bin\Debug\LibreriaPromed.pdb

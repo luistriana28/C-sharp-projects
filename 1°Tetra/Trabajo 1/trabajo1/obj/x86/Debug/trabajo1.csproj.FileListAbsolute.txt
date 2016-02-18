@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Melgem 1 D\trabajo1\trabajo1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Melgem 1 D\trabajo1\trabajo1\bin\Debug\trabajo1.exe
+C:\Users\Usuario\Desktop\Melgem 1 D\trabajo1\trabajo1\bin\Debug\trabajo1.pdb
+C:\Users\Usuario\Desktop\Melgem 1 D\trabajo1\trabajo1\obj\x86\Debug\trabajo1.exe
+C:\Users\Usuario\Desktop\Melgem 1 D\trabajo1\trabajo1\obj\x86\Debug\trabajo1.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 1\trabajo1\obj\x86\Debug\trabajo1.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 1\trabajo1\obj\x86\Debug\trabajo1.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 1\trabajo1\bin\Debug\trabajo1.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 1\trabajo1\bin\Debug\trabajo1.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 1\trabajo1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 1\trabajo1\obj\x86\Debug\trabajo1.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 1\trabajo1\obj\x86\Debug\trabajo1.pdb
+D:\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 1\trabajo1\obj\x86\Debug\trabajo1.exe
+D:\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 1\trabajo1\obj\x86\Debug\trabajo1.pdb
+D:\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 1\trabajo1\obj\x86\Debug\trabajo1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\Prac6\Prac6\bin\Debug\Prac6.exe.config
+E:\Prac6\Prac6\bin\Debug\Prac6.exe
+E:\Prac6\Prac6\bin\Debug\Prac6.pdb
+E:\Prac6\Prac6\bin\Debug\ClaseArreglos.dll
+E:\Prac6\Prac6\bin\Debug\ClaseArreglos.pdb
+E:\Prac6\Prac6\obj\Debug\Prac6.csprojResolveAssemblyReference.cache
+E:\Prac6\Prac6\obj\Debug\Prac6.Form1.resources
+E:\Prac6\Prac6\obj\Debug\Prac6.Properties.Resources.resources
+E:\Prac6\Prac6\obj\Debug\Prac6.csproj.GenerateResource.Cache
+E:\Prac6\Prac6\obj\Debug\Prac6.exe
+E:\Prac6\Prac6\obj\Debug\Prac6.pdb
+D:\UTT\2°Tetra\Programacion\Prac6\Prac6\bin\Debug\Prac6.exe.config
+D:\UTT\2°Tetra\Programacion\Prac6\Prac6\obj\Debug\Prac6.exe
+D:\UTT\2°Tetra\Programacion\Prac6\Prac6\obj\Debug\Prac6.pdb

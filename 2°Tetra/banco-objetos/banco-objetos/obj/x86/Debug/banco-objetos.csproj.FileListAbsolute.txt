@@ -1,0 +1,7 @@
+F:\banco-objetos\banco-objetos\bin\Debug\banco-objetos.exe
+F:\banco-objetos\banco-objetos\bin\Debug\banco-objetos.pdb
+F:\banco-objetos\banco-objetos\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\banco-objetos\banco-objetos\obj\x86\Debug\banco-objetos.exe
+F:\banco-objetos\banco-objetos\obj\x86\Debug\banco-objetos.pdb
+Z:\UTT\2°Tetra\Programacion\banco-objetos\banco-objetos\obj\x86\Debug\banco-objetos.exe
+Z:\UTT\2°Tetra\Programacion\banco-objetos\banco-objetos\obj\x86\Debug\banco-objetos.pdb

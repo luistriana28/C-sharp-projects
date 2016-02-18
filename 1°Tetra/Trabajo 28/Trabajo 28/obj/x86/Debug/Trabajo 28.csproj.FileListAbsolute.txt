@@ -1,0 +1,17 @@
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\bin\Debug\Trabajo 28.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\bin\Debug\Trabajo 28.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\Trabajo 28.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\Trabajo 28.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\Trabajo 28.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\Trabajo 28.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\Trabajo 28.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\Trabajo 28.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\bin\Debug\Trabajo 28.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\bin\Debug\Trabajo 28.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 28\Trabajo 28\obj\x86\Debug\Trabajo 28.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 28\Trabajo 28\obj\x86\Debug\Trabajo 28.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 28\Trabajo 28\obj\x86\Debug\Trabajo 28.pdb

@@ -1,0 +1,13 @@
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\Tarea_de_suma.Form1.resources
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\Tarea_de_suma.Properties.Resources.resources
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\bin\Debug\Tarea de suma.exe
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\bin\Debug\Tarea de suma.pdb
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\Tarea de suma.exe
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\Tarea de suma.pdb
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\Tarea de suma.exe
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\Tarea de suma.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\Tarea de suma.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Tarea de suma\Tarea de suma\obj\x86\Debug\Tarea de suma.pdb

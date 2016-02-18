@@ -1,0 +1,5 @@
+C:\Users\Elisa Glez\Desktop\Libreria examen\Libreria examen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elisa Glez\Desktop\Libreria examen\Libreria examen\bin\Debug\Libreria examen.dll
+C:\Users\Elisa Glez\Desktop\Libreria examen\Libreria examen\bin\Debug\Libreria examen.pdb
+C:\Users\Elisa Glez\Desktop\Libreria examen\Libreria examen\obj\Debug\Libreria examen.dll
+C:\Users\Elisa Glez\Desktop\Libreria examen\Libreria examen\obj\Debug\Libreria examen.pdb

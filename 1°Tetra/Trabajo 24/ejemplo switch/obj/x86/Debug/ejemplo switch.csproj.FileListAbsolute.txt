@@ -1,0 +1,12 @@
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch\ejemplo switch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch\ejemplo switch\bin\Debug\ejemplo switch.exe
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch\ejemplo switch\bin\Debug\ejemplo switch.pdb
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch\ejemplo switch\obj\x86\Debug\ejemplo switch.exe
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch\ejemplo switch\obj\x86\Debug\ejemplo switch.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch\ejemplo switch\obj\x86\Debug\ejemplo switch.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch\ejemplo switch\obj\x86\Debug\ejemplo switch.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch\ejemplo switch\bin\Debug\ejemplo switch.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch\ejemplo switch\bin\Debug\ejemplo switch.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch\ejemplo switch\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 24\ejemplo switch\obj\x86\Debug\ejemplo switch.exe
+F:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 24\ejemplo switch\obj\x86\Debug\ejemplo switch.pdb

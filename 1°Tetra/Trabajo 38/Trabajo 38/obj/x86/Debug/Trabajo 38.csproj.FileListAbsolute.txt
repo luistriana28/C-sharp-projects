@@ -1,0 +1,19 @@
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\bin\Debug\Trabajo 38.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\bin\Debug\Trabajo 38.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.pdb
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.exe
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.pdb
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\bin\Debug\Trabajo 38.exe
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\bin\Debug\Trabajo 38.pdb
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\bin\Debug\Trabajo 38.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\bin\Debug\Trabajo 38.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.pdb
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.exe
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 38\Trabajo 38\obj\x86\Debug\Trabajo 38.pdb

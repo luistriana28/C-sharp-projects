@@ -1,0 +1,81 @@
+C:\Users\Olague\Desktop\banco1\banco1\bin\Debug\banco1.exe.config
+C:\Users\Olague\Desktop\banco1\banco1\bin\Debug\banco1.exe
+C:\Users\Olague\Desktop\banco1\banco1\bin\Debug\banco1.pdb
+C:\Users\Olague\Desktop\banco1\banco1\obj\Debug\banco1.csprojResolveAssemblyReference.cache
+C:\Users\Olague\Desktop\banco1\banco1\obj\Debug\banco1.Form1.resources
+C:\Users\Olague\Desktop\banco1\banco1\obj\Debug\banco1.Form2.resources
+C:\Users\Olague\Desktop\banco1\banco1\obj\Debug\banco1.Properties.Resources.resources
+C:\Users\Olague\Desktop\banco1\banco1\obj\Debug\banco1.csproj.GenerateResource.Cache
+C:\Users\Olague\Desktop\banco1\banco1\obj\Debug\banco1.exe
+C:\Users\Olague\Desktop\banco1\banco1\obj\Debug\banco1.pdb
+C:\Users\Olague\Desktop\banco1\banco1\obj\Debug\banco1.Form3.resources
+C:\Users\Olague\Desktop\banco1\banco1\obj\Debug\banco1.Form4.resources
+C:\Users\Olague\Desktop\Utt\PROGRAMACION\banco1\banco1\bin\Debug\banco1.exe.config
+C:\Users\Olague\Desktop\Utt\PROGRAMACION\banco1\banco1\obj\Debug\banco1.exe
+C:\Users\Olague\Desktop\Utt\PROGRAMACION\banco1\banco1\obj\Debug\banco1.pdb
+G:\banco1\banco1\bin\Debug\banco1.exe.config
+G:\banco1\banco1\bin\Debug\banco1.exe
+G:\banco1\banco1\bin\Debug\banco1.pdb
+G:\banco1\banco1\bin\Debug\MyLibrary.pdb
+G:\banco1\banco1\obj\Debug\banco1.Form1.resources
+G:\banco1\banco1\obj\Debug\banco1.Form2.resources
+G:\banco1\banco1\obj\Debug\banco1.Form3.resources
+G:\banco1\banco1\obj\Debug\banco1.Form4.resources
+G:\banco1\banco1\obj\Debug\banco1.Properties.Resources.resources
+G:\banco1\banco1\obj\Debug\banco1.csproj.GenerateResource.Cache
+G:\banco1\banco1\obj\Debug\banco1.exe
+G:\banco1\banco1\obj\Debug\banco1.pdb
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\banco1.exe.config
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\obj\Debug\banco1.exe
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\obj\Debug\banco1.pdb
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\banco1.exe
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\banco1.pdb
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\mscorlib.dll
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\MyLibrary.dll
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\MyLibrary.pdb
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\normidna.nlp
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\normnfc.nlp
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\normnfd.nlp
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\normnfkc.nlp
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\bin\Debug\normnfkd.nlp
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\obj\Debug\banco1.csprojResolveAssemblyReference.cache
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\obj\Debug\banco1.Form1.resources
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\obj\Debug\banco1.Form2.resources
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\obj\Debug\banco1.Form3.resources
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\obj\Debug\banco1.Form4.resources
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\obj\Debug\banco1.Properties.Resources.resources
+C:\Users\Triana\Documents\Visual Studio 2012\Projects\banco1\banco1\obj\Debug\banco1.csproj.GenerateResource.Cache
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\bin\Debug\banco1.exe.config
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\obj\Debug\banco1.exe
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\obj\Debug\banco1.pdb
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\bin\Debug\banco1.exe
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\bin\Debug\banco1.pdb
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\bin\Debug\MyLibrary.pdb
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\obj\Debug\banco1.csprojResolveAssemblyReference.cache
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\obj\Debug\banco1.Form1.resources
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\obj\Debug\banco1.Form2.resources
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\obj\Debug\banco1.Form3.resources
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\obj\Debug\banco1.Form4.resources
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\obj\Debug\banco1.Properties.Resources.resources
+C:\Users\raul\Documents\garay 2 cuatri\nuevos 3\banco1\banco1\obj\Debug\banco1.csproj.GenerateResource.Cache
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\bin\Debug\banco1.exe.config
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\obj\Debug\banco1.exe
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\obj\Debug\banco1.pdb
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\bin\Debug\banco1.exe
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\bin\Debug\banco1.pdb
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\bin\Debug\MyLibrary.pdb
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\obj\Debug\banco1.csprojResolveAssemblyReference.cache
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\obj\Debug\banco1.Form1.resources
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\obj\Debug\banco1.Form2.resources
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\obj\Debug\banco1.Form3.resources
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\obj\Debug\banco1.Form4.resources
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\obj\Debug\banco1.Properties.Resources.resources
+C:\Users\juanC\Desktop\nuevos 3\banco1\banco1\obj\Debug\banco1.csproj.GenerateResource.Cache
+C:\Users\juanC\Documents\Todo lo de programacion\banco1\banco1\bin\Debug\banco1.exe.config
+C:\Users\juanC\Documents\Todo lo de programacion\banco1\banco1\obj\Debug\banco1.exe
+C:\Users\juanC\Documents\Todo lo de programacion\banco1\banco1\obj\Debug\banco1.pdb
+G:\banco1\banco1\obj\Debug\banco1.csprojResolveAssemblyReference.cache
+D:\UTT\2°Tetra\Programacion\banco1\banco1\bin\Debug\banco1.exe.config
+D:\UTT\2°Tetra\Programacion\banco1\banco1\obj\Debug\banco1.exe
+D:\UTT\2°Tetra\Programacion\banco1\banco1\obj\Debug\banco1.pdb

@@ -1,0 +1,14 @@
+c:\documents and settings\cc\mis documentos\visual studio 2010\Projects\metodo abonar\metodo abonar\bin\Debug\metodo abonar.exe
+c:\documents and settings\cc\mis documentos\visual studio 2010\Projects\metodo abonar\metodo abonar\bin\Debug\metodo abonar.pdb
+c:\documents and settings\cc\mis documentos\visual studio 2010\Projects\metodo abonar\metodo abonar\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\cc\mis documentos\visual studio 2010\Projects\metodo abonar\metodo abonar\obj\x86\Debug\metodo abonar.exe
+c:\documents and settings\cc\mis documentos\visual studio 2010\Projects\metodo abonar\metodo abonar\obj\x86\Debug\metodo abonar.pdb
+G:\metodo abonar\metodo abonar\obj\x86\Debug\metodo abonar.exe
+G:\metodo abonar\metodo abonar\obj\x86\Debug\metodo abonar.pdb
+F:\metodo abonar\metodo abonar\obj\x86\Debug\metodo abonar.exe
+F:\metodo abonar\metodo abonar\obj\x86\Debug\metodo abonar.pdb
+F:\metodo abonar\metodo abonar\bin\Debug\metodo abonar.exe
+F:\metodo abonar\metodo abonar\bin\Debug\metodo abonar.pdb
+F:\metodo abonar\metodo abonar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\UTT\2°Tetra\Programacion\metodo abonar\metodo abonar\obj\x86\Debug\metodo abonar.exe
+D:\UTT\2°Tetra\Programacion\metodo abonar\metodo abonar\obj\x86\Debug\metodo abonar.pdb

@@ -1,0 +1,11 @@
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 35\Trabajo 35\bin\Debug\Trabajo 35.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 35\Trabajo 35\bin\Debug\Trabajo 35.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 35\Trabajo 35\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 35\Trabajo 35\obj\x86\Debug\Trabajo 35.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 35\Trabajo 35\obj\x86\Debug\Trabajo 35.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 35\Trabajo 35\obj\x86\Debug\Trabajo 35.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 35\Trabajo 35\obj\x86\Debug\Trabajo 35.pdb
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 35\Trabajo 35\obj\x86\Debug\Trabajo 35.exe
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 35\Trabajo 35\obj\x86\Debug\Trabajo 35.pdb
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 35\Trabajo 35\obj\x86\Debug\Trabajo 35.exe
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 35\Trabajo 35\obj\x86\Debug\Trabajo 35.pdb

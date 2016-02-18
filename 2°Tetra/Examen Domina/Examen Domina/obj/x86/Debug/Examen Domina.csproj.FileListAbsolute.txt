@@ -1,0 +1,31 @@
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\bin\Debug\Examen Domina.exe
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\bin\Debug\Examen Domina.pdb
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen_Domina.Form1.resources
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen_Domina.Properties.Resources.resources
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.exe
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\bin\Debug\Examen Domina.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\bin\Debug\Examen Domina.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen_Domina.Form1.resources
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen_Domina.Properties.Resources.resources
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\bin\Debug\Examen Domina.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\bin\Debug\Examen Domina.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen_Domina.Form1.resources
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen_Domina.Properties.Resources.resources
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.pdb
+H:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.exe
+H:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.pdb
+D:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.exe
+D:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Examen Domina\Examen Domina\obj\x86\Debug\Examen Domina.pdb

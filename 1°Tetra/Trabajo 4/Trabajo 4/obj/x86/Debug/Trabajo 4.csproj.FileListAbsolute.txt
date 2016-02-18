@@ -1,0 +1,7 @@
+J:\Trabajos\Melgem 1 D\Trabajo 4\Trabajo 4\bin\Debug\Trabajo 4.exe
+J:\Trabajos\Melgem 1 D\Trabajo 4\Trabajo 4\bin\Debug\Trabajo 4.pdb
+J:\Trabajos\Melgem 1 D\Trabajo 4\Trabajo 4\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Trabajos\Melgem 1 D\Trabajo 4\Trabajo 4\obj\x86\Debug\Trabajo 4.exe
+J:\Trabajos\Melgem 1 D\Trabajo 4\Trabajo 4\obj\x86\Debug\Trabajo 4.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 4\Trabajo 4\obj\x86\Debug\Trabajo 4.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 4\Trabajo 4\obj\x86\Debug\Trabajo 4.pdb

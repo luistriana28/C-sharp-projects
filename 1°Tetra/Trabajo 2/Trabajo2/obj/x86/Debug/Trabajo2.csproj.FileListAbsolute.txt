@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Melgem 1 D\Trabajo2\Trabajo2\bin\Debug\Trabajo2.exe
+C:\Users\Usuario\Desktop\Melgem 1 D\Trabajo2\Trabajo2\bin\Debug\Trabajo2.pdb
+C:\Users\Usuario\Desktop\Melgem 1 D\Trabajo2\Trabajo2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Melgem 1 D\Trabajo2\Trabajo2\obj\x86\Debug\Trabajo2.exe
+C:\Users\Usuario\Desktop\Melgem 1 D\Trabajo2\Trabajo2\obj\x86\Debug\Trabajo2.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 2\Trabajo2\obj\x86\Debug\Trabajo2.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 2\Trabajo2\obj\x86\Debug\Trabajo2.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 2\Trabajo2\bin\Debug\Trabajo2.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 2\Trabajo2\bin\Debug\Trabajo2.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 2\Trabajo2\obj\x86\Debug\ResolveAssemblyReference.cache

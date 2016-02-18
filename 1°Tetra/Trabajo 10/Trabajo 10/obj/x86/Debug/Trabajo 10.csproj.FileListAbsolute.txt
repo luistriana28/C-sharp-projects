@@ -1,0 +1,11 @@
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 10\Trabajo 10\bin\Debug\Trabajo 10.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 10\Trabajo 10\bin\Debug\Trabajo 10.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 10\Trabajo 10\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 10\Trabajo 10\obj\x86\Debug\Trabajo 10.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 10\Trabajo 10\obj\x86\Debug\Trabajo 10.pdb
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 10\Trabajo 10\obj\x86\Debug\Trabajo 10.exe
+K:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 10\Trabajo 10\obj\x86\Debug\Trabajo 10.pdb
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 10\Trabajo 10\obj\x86\Debug\Trabajo 10.exe
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 10\Trabajo 10\obj\x86\Debug\Trabajo 10.pdb
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 10\Trabajo 10\obj\x86\Debug\Trabajo 10.exe
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 10\Trabajo 10\obj\x86\Debug\Trabajo 10.pdb

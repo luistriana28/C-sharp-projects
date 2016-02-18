@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ClaseArreglos">
+</Property><Property Name="Archivo de la solución" Value="D:\UTT\2°Tetra\Programacion\ClaseArreglos\ClaseArreglos.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\UTT\2°Tetra\Programacion\ClaseArreglos\ClaseArreglos.suo">
+</Property><Property Name="Date" Value="jueves, 04 de junio de 2015">
+</Property><Property Name="Time" Value="22:04 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ClaseArreglos.sln" Description="La copia D:\UTT\2°Tetra\Programacion\ClaseArreglos\Backup\ClaseArreglos.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="ClaseArreglos.suo" Description="La copia D:\UTT\2°Tetra\Programacion\ClaseArreglos\Backup\ClaseArreglos.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="ClaseArreglos" Source="ClaseArreglos\ClaseArreglos.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\UTT\2°Tetra\Programacion\ClaseArreglos\Backup\ClaseArreglos\ClaseArreglos.csproj">
+</Event><Event ErrorLevel="0" Project="ClaseArreglos" Source="ClaseArreglos\Class1.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\UTT\2°Tetra\Programacion\ClaseArreglos\Backup\ClaseArreglos\Class1.cs">
+</Event><Event ErrorLevel="0" Project="ClaseArreglos" Source="ClaseArreglos\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\UTT\2°Tetra\Programacion\ClaseArreglos\Backup\ClaseArreglos\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ClaseArreglos" Source="ClaseArreglos\ClaseArreglos.csproj" Description="El archivo de proyecto no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="ClaseArreglos" Source="ClaseArreglos\ClaseArreglos.csproj" Description="No requiere conversión">
+</Event><Event ErrorLevel="0" Project="" Source="ClaseArreglos.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="ClaseArreglos.sln" Description="Converted">
+</Event></UpgradeLog>

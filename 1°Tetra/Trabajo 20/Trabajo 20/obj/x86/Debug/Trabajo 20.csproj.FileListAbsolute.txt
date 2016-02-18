@@ -1,0 +1,13 @@
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 20\Trabajo 20\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 20\Trabajo 20\bin\Debug\Trabajo 20.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 20\Trabajo 20\bin\Debug\Trabajo 20.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.pdb
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.exe
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.pdb
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.exe
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 20\Trabajo 20\obj\x86\Debug\Trabajo 20.pdb

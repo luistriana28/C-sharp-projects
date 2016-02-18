@@ -1,0 +1,14 @@
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\bin\Debug\practica 2 libreria.exe.config
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\bin\Debug\practica 2 libreria.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\bin\Debug\practica 2 libreria.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\obj\Debug\practica 2 libreria.csprojResolveAssemblyReference.cache
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\obj\Debug\practica_2_libreria.Form1.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\obj\Debug\practica_2_libreria.Form2.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\obj\Debug\practica_2_libreria.Properties.Resources.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\obj\Debug\practica 2 libreria.csproj.GenerateResource.Cache
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\obj\Debug\practica 2 libreria.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\obj\Debug\practica 2 libreria.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\obj\Debug\practica_2_libreria.Form3.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\obj\Debug\practica_2_libreria.Form4.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\bin\Debug\montoss.dll
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 2 libreria\practica 2 libreria\bin\Debug\montoss.pdb

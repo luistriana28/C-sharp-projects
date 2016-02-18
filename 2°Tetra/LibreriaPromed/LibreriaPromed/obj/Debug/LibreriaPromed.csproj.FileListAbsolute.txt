@@ -1,0 +1,5 @@
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\LibreriaPromed\LibreriaPromed\bin\Debug\LibreriaPromed.dll
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\LibreriaPromed\LibreriaPromed\bin\Debug\LibreriaPromed.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\LibreriaPromed\LibreriaPromed\obj\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\LibreriaPromed\LibreriaPromed\obj\Debug\LibreriaPromed.dll
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\LibreriaPromed\LibreriaPromed\obj\Debug\LibreriaPromed.pdb

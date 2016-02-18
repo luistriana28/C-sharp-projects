@@ -1,0 +1,10 @@
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\bin\Debug\Trabajo 29.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\bin\Debug\Trabajo 29.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\obj\x86\Debug\Trabajo 29.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\obj\x86\Debug\Trabajo 29.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\obj\x86\Debug\Trabajo 29.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\obj\x86\Debug\Trabajo 29.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\bin\Debug\Trabajo 29.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\bin\Debug\Trabajo 29.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 29\Trabajo 29\obj\x86\Debug\ResolveAssemblyReference.cache

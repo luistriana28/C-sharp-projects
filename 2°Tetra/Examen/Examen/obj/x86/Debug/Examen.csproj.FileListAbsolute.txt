@@ -1,0 +1,25 @@
+C:\Users\Elisa Glez\Desktop\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\Elisa Glez\Desktop\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\Elisa Glez\Desktop\Examen\Examen\bin\Debug\Libreria examen.dll
+C:\Users\Elisa Glez\Desktop\Examen\Examen\bin\Debug\Libreria examen.pdb
+C:\Users\Elisa Glez\Desktop\Examen\Examen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elisa Glez\Desktop\Examen\Examen\obj\x86\Debug\Examen.Form1.resources
+C:\Users\Elisa Glez\Desktop\Examen\Examen\obj\x86\Debug\Examen.Properties.Resources.resources
+C:\Users\Elisa Glez\Desktop\Examen\Examen\obj\x86\Debug\Examen.Reporte.resources
+C:\Users\Elisa Glez\Desktop\Examen\Examen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elisa Glez\Desktop\Examen\Examen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa Glez\Desktop\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\Elisa Glez\Desktop\Examen\Examen\obj\x86\Debug\Examen.pdb
+E:\UTT\2°Tetra\Programacion\Examen\Examen\obj\x86\Debug\Examen.exe
+E:\UTT\2°Tetra\Programacion\Examen\Examen\obj\x86\Debug\Examen.pdb
+E:\UTT\2°Tetra\Programacion\Examen\Examen\bin\Debug\Examen.exe
+E:\UTT\2°Tetra\Programacion\Examen\Examen\bin\Debug\Examen.pdb
+E:\UTT\2°Tetra\Programacion\Examen\Examen\bin\Debug\Libreria examen.dll
+E:\UTT\2°Tetra\Programacion\Examen\Examen\bin\Debug\Libreria examen.pdb
+E:\UTT\2°Tetra\Programacion\Examen\Examen\obj\x86\Debug\Examen.csprojResolveAssemblyReference.cache
+E:\UTT\2°Tetra\Programacion\Examen\Examen\obj\x86\Debug\Examen.Form1.resources
+E:\UTT\2°Tetra\Programacion\Examen\Examen\obj\x86\Debug\Examen.Properties.Resources.resources
+E:\UTT\2°Tetra\Programacion\Examen\Examen\obj\x86\Debug\Examen.Reporte.resources
+E:\UTT\2°Tetra\Programacion\Examen\Examen\obj\x86\Debug\Examen.csproj.GenerateResource.Cache
+D:\UTT\2°Tetra\Programacion\Examen\Examen\obj\x86\Debug\Examen.exe
+D:\UTT\2°Tetra\Programacion\Examen\Examen\obj\x86\Debug\Examen.pdb

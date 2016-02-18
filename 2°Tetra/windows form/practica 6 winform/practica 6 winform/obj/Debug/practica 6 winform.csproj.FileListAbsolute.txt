@@ -1,0 +1,66 @@
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe.config
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.pdb
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form1.resources
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form2.resources
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Properties.Resources.resources
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.exe
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.pdb
+C:\Users\usuario\Desktop\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form3.resources
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe.config
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.exe
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.pdb
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.pdb
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form1.resources
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form2.resources
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form3.resources
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Properties.Resources.resources
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Mis documentos\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe.config
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.exe
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.pdb
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.pdb
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form1.resources
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form2.resources
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form3.resources
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Properties.Resources.resources
+C:\Users\usuario\Desktop\Mis documentos\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe.config
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.exe
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.pdb
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.pdb
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form1.resources
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form2.resources
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form3.resources
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Properties.Resources.resources
+C:\Users\usuario\Desktop\trabajos utt\2do cuatri\programacion 2\PRACTICAS WINDOWS FORM\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csproj.GenerateResource.Cache
+G:\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe.config
+G:\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.exe
+G:\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.pdb
+G:\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe
+G:\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.pdb
+G:\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csprojResolveAssemblyReference.cache
+G:\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form1.resources
+G:\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form2.resources
+G:\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form3.resources
+G:\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Properties.Resources.resources
+G:\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csproj.GenerateResource.Cache
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe.config
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csprojResolveAssemblyReference.cache
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form1.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form2.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Form3.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\obj\Debug\practica_6_winform.Properties.Resources.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\obj\Debug\practica 6 winform.csproj.GenerateResource.Cache
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\practica 6 winform\practica 6 winform\bin\Debug\practica 6 winform.pdb

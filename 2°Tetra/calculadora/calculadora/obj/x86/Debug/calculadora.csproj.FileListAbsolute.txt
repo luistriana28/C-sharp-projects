@@ -1,0 +1,7 @@
+F:\calculadora\calculadora\bin\Debug\calculadora.exe
+F:\calculadora\calculadora\bin\Debug\calculadora.pdb
+F:\calculadora\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+F:\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
+E:\UTT\2°Tetra\Programacion\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+E:\UTT\2°Tetra\Programacion\calculadora\calculadora\obj\x86\Debug\calculadora.pdb

@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo  18\Trabajo  18\bin\Debug\Trabajo  18.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo  18\Trabajo  18\bin\Debug\Trabajo  18.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo  18\Trabajo  18\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo  18\Trabajo  18\obj\x86\Debug\Trabajo  18.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo  18\Trabajo  18\obj\x86\Debug\Trabajo  18.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 18\Trabajo  18\obj\x86\Debug\Trabajo  18.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 18\Trabajo  18\obj\x86\Debug\Trabajo  18.pdb
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 18\Trabajo  18\obj\x86\Debug\Trabajo  18.exe
+M:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 18\Trabajo  18\obj\x86\Debug\Trabajo  18.pdb

@@ -1,0 +1,4 @@
+C:\Users\raul\Documents\garay 2 cuatri\windows form\cosotdecamion\cosotdecamion\bin\Debug\cosotdecamion.dll
+C:\Users\raul\Documents\garay 2 cuatri\windows form\cosotdecamion\cosotdecamion\bin\Debug\cosotdecamion.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\cosotdecamion\cosotdecamion\obj\Debug\cosotdecamion.dll
+C:\Users\raul\Documents\garay 2 cuatri\windows form\cosotdecamion\cosotdecamion\obj\Debug\cosotdecamion.pdb

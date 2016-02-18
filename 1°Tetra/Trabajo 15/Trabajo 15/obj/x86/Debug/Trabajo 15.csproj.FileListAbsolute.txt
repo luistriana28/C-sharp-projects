@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 15\Trabajo 15\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 15\Trabajo 15\bin\Debug\Trabajo 15.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 15\Trabajo 15\bin\Debug\Trabajo 15.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 15\Trabajo 15\obj\x86\Debug\Trabajo 15.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 15\Trabajo 15\obj\x86\Debug\Trabajo 15.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 15\Trabajo 15\obj\x86\Debug\Trabajo 15.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 15\Trabajo 15\obj\x86\Debug\Trabajo 15.pdb
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 15\Trabajo 15\obj\x86\Debug\Trabajo 15.exe
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 15\Trabajo 15\obj\x86\Debug\Trabajo 15.pdb

@@ -1,0 +1,11 @@
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\obj\x86\Debug\llamada.Form1.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\obj\x86\Debug\llamada.Properties.Resources.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\obj\x86\Debug\llamada.csproj.GenerateResource.Cache
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\bin\Debug\llamada.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\bin\Debug\llamada.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\obj\x86\Debug\llamada.Form2.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\obj\x86\Debug\llamada.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\obj\x86\Debug\llamada.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\obj\x86\Debug\llamada.csprojResolveAssemblyReference.cache
+C:\Users\raul\Documents\garay 2 cuatri\windows form\llamada\llamada\obj\x86\Debug\llamada.Form3.resources
+E:\UTT\2°Tetra\Programacion\windows form\llamada\llamada\obj\x86\Debug\llamada.exe

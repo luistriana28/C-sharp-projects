@@ -1,0 +1,4 @@
+C:\Users\raul\Documents\garay 2 cuatri\windows form\montoss\montoss\bin\Debug\montoss.dll
+C:\Users\raul\Documents\garay 2 cuatri\windows form\montoss\montoss\bin\Debug\montoss.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\montoss\montoss\obj\Debug\montoss.dll
+C:\Users\raul\Documents\garay 2 cuatri\windows form\montoss\montoss\obj\Debug\montoss.pdb

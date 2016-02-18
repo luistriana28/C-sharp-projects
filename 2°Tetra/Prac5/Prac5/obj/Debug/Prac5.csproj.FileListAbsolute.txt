@@ -1,0 +1,23 @@
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac5\Prac5\bin\Debug\Prac5.exe.config
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac5\Prac5\bin\Debug\Prac5.exe
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac5\Prac5\bin\Debug\Prac5.pdb
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac5\Prac5\obj\Debug\Prac5.csprojResolveAssemblyReference.cache
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac5\Prac5\obj\Debug\Prac5.Form1.resources
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac5\Prac5\obj\Debug\Prac5.Properties.Resources.resources
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac5\Prac5\obj\Debug\Prac5.csproj.GenerateResource.Cache
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac5\Prac5\obj\Debug\Prac5.exe
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac5\Prac5\obj\Debug\Prac5.pdb
+E:\Prac5\Prac5\bin\Debug\Prac5.exe.config
+E:\Prac5\Prac5\obj\Debug\Prac5.exe
+E:\Prac5\Prac5\obj\Debug\Prac5.pdb
+E:\Prac5\Prac5\obj\Debug\Prac5.csprojResolveAssemblyReference.cache
+E:\Prac5\Prac5\obj\Debug\Prac5.Form1.resources
+E:\Prac5\Prac5\obj\Debug\Prac5.Properties.Resources.resources
+E:\Prac5\Prac5\obj\Debug\Prac5.csproj.GenerateResource.Cache
+E:\Prac5\Prac5\bin\Debug\Prac5.exe
+E:\Prac5\Prac5\bin\Debug\Prac5.pdb
+E:\Prac5\Prac5\bin\Debug\ClaseArreglos.dll
+E:\Prac5\Prac5\bin\Debug\ClaseArreglos.pdb
+E:\UTT\2°Tetra\Programacion\Prac5\Prac5\bin\Debug\Prac5.exe.config
+E:\UTT\2°Tetra\Programacion\Prac5\Prac5\obj\Debug\Prac5.exe
+E:\UTT\2°Tetra\Programacion\Prac5\Prac5\obj\Debug\Prac5.pdb

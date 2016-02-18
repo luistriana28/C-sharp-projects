@@ -1,0 +1,13 @@
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\bin\Debug\Articulos a objetos.exe
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\bin\Debug\Articulos a objetos.pdb
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\Articulos_a_objetos.Form1.resources
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\Articulos_a_objetos.Properties.Resources.resources
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\Articulos a objetos.exe
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\Articulos a objetos.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\Articulos a objetos.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\Articulos a objetos.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\Articulos a objetos.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Articulos a objetos\Articulos a objetos\obj\x86\Debug\Articulos a objetos.pdb

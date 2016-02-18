@@ -1,0 +1,16 @@
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch 2\ejemplo switch 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch 2\ejemplo switch 2\bin\Debug\ejemplo switch 2.exe
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch 2\ejemplo switch 2\bin\Debug\ejemplo switch 2.pdb
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch 2\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.exe
+C:\Users\Veronica Marquez\Documents\Visual Studio 2010\Projects\ejemplo switch 2\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch 2\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch 2\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch 2\ejemplo switch 2\bin\Debug\ejemplo switch 2.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch 2\ejemplo switch 2\bin\Debug\ejemplo switch 2.pdb
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\ejemplo switch 2\ejemplo switch 2\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 26\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.exe
+I:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 26\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 26\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 26\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.pdb
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 26\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.exe
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 26\ejemplo switch 2\obj\x86\Debug\ejemplo switch 2.pdb

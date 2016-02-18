@@ -1,0 +1,5 @@
+F:\objetos\objetos\bin\Debug\objetos.exe
+F:\objetos\objetos\bin\Debug\objetos.pdb
+F:\objetos\objetos\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\objetos\objetos\obj\x86\Debug\objetos.exe
+F:\objetos\objetos\obj\x86\Debug\objetos.pdb

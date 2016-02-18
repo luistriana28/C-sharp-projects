@@ -1,0 +1,5 @@
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 22\Trabajo 22\bin\Debug\Trabajo 22.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 22\Trabajo 22\bin\Debug\Trabajo 22.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 22\Trabajo 22\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 22\Trabajo 22\obj\x86\Debug\Trabajo 22.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 22\Trabajo 22\obj\x86\Debug\Trabajo 22.pdb

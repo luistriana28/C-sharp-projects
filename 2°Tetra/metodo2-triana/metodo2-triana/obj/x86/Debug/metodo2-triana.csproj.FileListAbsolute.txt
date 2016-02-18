@@ -1,0 +1,10 @@
+E:\metodo2-triana\metodo2-triana\bin\Debug\metodo2-triana.exe
+E:\metodo2-triana\metodo2-triana\bin\Debug\metodo2-triana.pdb
+E:\metodo2-triana\metodo2-triana\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\metodo2-triana\metodo2-triana\obj\x86\Debug\metodo2-triana.exe
+E:\metodo2-triana\metodo2-triana\obj\x86\Debug\metodo2-triana.pdb
+J:\metodo2-triana\metodo2-triana\obj\x86\Debug\metodo2-triana.exe
+J:\metodo2-triana\metodo2-triana\obj\x86\Debug\metodo2-triana.pdb
+J:\metodo2-triana\metodo2-triana\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\metodo2-triana\metodo2-triana\bin\Debug\metodo2-triana.exe
+J:\metodo2-triana\metodo2-triana\bin\Debug\metodo2-triana.pdb

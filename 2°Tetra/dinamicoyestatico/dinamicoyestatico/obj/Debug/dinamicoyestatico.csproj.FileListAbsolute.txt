@@ -1,0 +1,27 @@
+C:\Users\juanC\Documents\Todo lo de redes\dinamicoyestatico\dinamicoyestatico\bin\Debug\dinamicoyestatico.exe.config
+C:\Users\juanC\Documents\Todo lo de redes\dinamicoyestatico\dinamicoyestatico\bin\Debug\dinamicoyestatico.exe
+C:\Users\juanC\Documents\Todo lo de redes\dinamicoyestatico\dinamicoyestatico\bin\Debug\dinamicoyestatico.pdb
+C:\Users\juanC\Documents\Todo lo de redes\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.csprojResolveAssemblyReference.cache
+C:\Users\juanC\Documents\Todo lo de redes\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.Form1.resources
+C:\Users\juanC\Documents\Todo lo de redes\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.Properties.Resources.resources
+C:\Users\juanC\Documents\Todo lo de redes\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.csproj.GenerateResource.Cache
+C:\Users\juanC\Documents\Todo lo de redes\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.exe
+C:\Users\juanC\Documents\Todo lo de redes\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.pdb
+E:\dinamicoyestatico\dinamicoyestatico\bin\Debug\dinamicoyestatico.exe.config
+E:\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.exe
+E:\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.pdb
+E:\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.csprojResolveAssemblyReference.cache
+E:\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.Form1.resources
+E:\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.Properties.Resources.resources
+E:\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.csproj.GenerateResource.Cache
+E:\dinamicoyestatico\dinamicoyestatico\bin\Debug\dinamicoyestatico.exe
+E:\dinamicoyestatico\dinamicoyestatico\bin\Debug\dinamicoyestatico.pdb
+D:\UTT\2°Tetra\Programacion\dinamicoyestatico\dinamicoyestatico\bin\Debug\dinamicoyestatico.exe.config
+D:\UTT\2°Tetra\Programacion\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.exe
+D:\UTT\2°Tetra\Programacion\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.pdb
+D:\UTT\2°Tetra\Programacion\dinamicoyestatico\dinamicoyestatico\bin\Debug\dinamicoyestatico.exe
+D:\UTT\2°Tetra\Programacion\dinamicoyestatico\dinamicoyestatico\bin\Debug\dinamicoyestatico.pdb
+D:\UTT\2°Tetra\Programacion\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.csprojResolveAssemblyReference.cache
+D:\UTT\2°Tetra\Programacion\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.Form1.resources
+D:\UTT\2°Tetra\Programacion\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.Properties.Resources.resources
+D:\UTT\2°Tetra\Programacion\dinamicoyestatico\dinamicoyestatico\obj\Debug\dinamicoyestatico.csproj.GenerateResource.Cache

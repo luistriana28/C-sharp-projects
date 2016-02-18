@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 17\Trabajo 17\bin\Debug\Trabajo 17.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 17\Trabajo 17\bin\Debug\Trabajo 17.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 17\Trabajo 17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 17\Trabajo 17\obj\x86\Debug\Trabajo 17.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Trabajo 17\Trabajo 17\obj\x86\Debug\Trabajo 17.pdb
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 17\Trabajo 17\obj\x86\Debug\Trabajo 17.exe
+E:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 17\Trabajo 17\obj\x86\Debug\Trabajo 17.pdb

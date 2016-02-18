@@ -1,0 +1,11 @@
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\bin\Debug\Fig Circulo y Cilindro.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\bin\Debug\Fig Circulo y Cilindro.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\obj\x86\Debug\Fig Circulo y Cilindro.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\obj\x86\Debug\Fig Circulo y Cilindro.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\obj\x86\Debug\Fig Circulo y Cilindro.exe
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\obj\x86\Debug\Fig Circulo y Cilindro.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\bin\Debug\Fig Circulo y Cilindro.exe
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\bin\Debug\Fig Circulo y Cilindro.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\obj\x86\Debug\Fig Circulo y Cilindro.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Fig Circulo y Cilindro\Fig Circulo y Cilindro\obj\x86\Debug\Fig Circulo y Cilindro.pdb

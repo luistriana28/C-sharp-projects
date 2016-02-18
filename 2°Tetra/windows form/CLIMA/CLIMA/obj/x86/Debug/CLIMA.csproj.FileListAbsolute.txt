@@ -1,0 +1,7 @@
+C:\Users\raul\Documents\garay 2 cuatri\windows form\CLIMA\CLIMA\bin\Debug\CLIMA.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\CLIMA\CLIMA\bin\Debug\CLIMA.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\CLIMA\CLIMA\obj\x86\Debug\CLIMA.Form1.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\CLIMA\CLIMA\obj\x86\Debug\CLIMA.Properties.Resources.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\CLIMA\CLIMA\obj\x86\Debug\CLIMA.csproj.GenerateResource.Cache
+C:\Users\raul\Documents\garay 2 cuatri\windows form\CLIMA\CLIMA\obj\x86\Debug\CLIMA.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\CLIMA\CLIMA\obj\x86\Debug\CLIMA.pdb

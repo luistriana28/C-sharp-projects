@@ -1,0 +1,40 @@
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\bin\Debug\Calculadora completa.exe
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\bin\Debug\Calculadora completa.pdb
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora_completa.Properties.Resources.resources
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.exe
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.pdb
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora_completa.calculadora.resources
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.exe
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.pdb
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\bin\Debug\Calculadora completa.exe
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\bin\Debug\Calculadora completa.pdb
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora_completa.Properties.Resources.resources
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora_completa.Form1.resources
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\bin\Debug\Calculadora completa.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\bin\Debug\Calculadora completa.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora_completa.Form1.resources
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora_completa.Properties.Resources.resources
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.exe
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.pdb
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\bin\Debug\Calculadora completa.exe
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\bin\Debug\Calculadora completa.pdb
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora_completa.Form1.resources
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora_completa.Properties.Resources.resources
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.exe
+H:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Melgem Facio Reyes 2D TICS\Calculadora completa\Calculadora completa\obj\x86\Debug\Calculadora completa.pdb

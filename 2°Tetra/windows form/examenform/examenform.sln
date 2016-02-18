@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examenform", "examenform\examenform.csproj", "{02E1B0D4-EF50-4CFE-BF4E-CD5B298C4EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E1B0D4-EF50-4CFE-BF4E-CD5B298C4EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E1B0D4-EF50-4CFE-BF4E-CD5B298C4EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E1B0D4-EF50-4CFE-BF4E-CD5B298C4EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E1B0D4-EF50-4CFE-BF4E-CD5B298C4EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

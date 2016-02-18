@@ -1,0 +1,12 @@
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Examen\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache

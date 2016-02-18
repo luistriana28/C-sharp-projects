@@ -1,0 +1,16 @@
+C:\Users\raul\Pictures\rulasboy\1PRACTICAwindows forms\1PRACTICAwindows forms\bin\Debug\1PRACTICAwindows forms.exe
+C:\Users\raul\Pictures\rulasboy\1PRACTICAwindows forms\1PRACTICAwindows forms\bin\Debug\1PRACTICAwindows forms.pdb
+C:\Users\raul\Pictures\rulasboy\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\1PRACTICAwindows forms.csprojResolveAssemblyReference.cache
+C:\Users\raul\Pictures\rulasboy\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\_1PRACTICAwindows_forms.Properties.Resources.resources
+C:\Users\raul\Pictures\rulasboy\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\1PRACTICAwindows forms.csproj.GenerateResource.Cache
+C:\Users\raul\Pictures\rulasboy\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\1PRACTICAwindows forms.exe
+C:\Users\raul\Pictures\rulasboy\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\1PRACTICAwindows forms.pdb
+C:\Users\raul\Pictures\rulasboy\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\_1PRACTICAwindows_forms.Form1.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\1PRACTICAwindows forms.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\1PRACTICAwindows forms.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\1PRACTICAwindows forms\1PRACTICAwindows forms\bin\Debug\1PRACTICAwindows forms.exe
+C:\Users\raul\Documents\garay 2 cuatri\windows form\1PRACTICAwindows forms\1PRACTICAwindows forms\bin\Debug\1PRACTICAwindows forms.pdb
+C:\Users\raul\Documents\garay 2 cuatri\windows form\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\1PRACTICAwindows forms.csprojResolveAssemblyReference.cache
+C:\Users\raul\Documents\garay 2 cuatri\windows form\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\_1PRACTICAwindows_forms.Form1.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\_1PRACTICAwindows_forms.Properties.Resources.resources
+C:\Users\raul\Documents\garay 2 cuatri\windows form\1PRACTICAwindows forms\1PRACTICAwindows forms\obj\x86\Debug\1PRACTICAwindows forms.csproj.GenerateResource.Cache

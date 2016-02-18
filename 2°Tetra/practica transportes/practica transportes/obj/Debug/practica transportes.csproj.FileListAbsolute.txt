@@ -1,0 +1,24 @@
+c:\users\carlos mx\documents\visual studio 2012\Projects\practica transportes\practica transportes\bin\Debug\practica transportes.exe.config
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\bin\Debug\practica transportes.exe
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\bin\Debug\practica transportes.pdb
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\bin\Debug\classcarlitos.dll
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\bin\Debug\classcarlitos.pdb
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\obj\Debug\practica transportes.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\obj\Debug\practica_transportes.Form1.resources
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\obj\Debug\practica_transportes.Form2.resources
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\obj\Debug\practica_transportes.Properties.Resources.resources
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\obj\Debug\practica transportes.csproj.GenerateResource.Cache
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\obj\Debug\practica transportes.exe
+C:\Users\Carlos Mx\Documents\Visual Studio 2012\Projects\practica transportes\practica transportes\obj\Debug\practica transportes.pdb
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\bin\Debug\practica transportes.exe.config
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\obj\Debug\practica transportes.exe
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\obj\Debug\practica transportes.pdb
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\bin\Debug\practica transportes.exe
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\bin\Debug\practica transportes.pdb
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\bin\Debug\classcarlitos.dll
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\bin\Debug\classcarlitos.pdb
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\obj\Debug\practica transportes.csprojResolveAssemblyReference.cache
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\obj\Debug\practica_transportes.Form1.resources
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\obj\Debug\practica_transportes.Form2.resources
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\obj\Debug\practica_transportes.Properties.Resources.resources
+E:\trabajos utt\programacion 2\practica transportes\practica transportes\obj\Debug\practica transportes.csproj.GenerateResource.Cache

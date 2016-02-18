@@ -1,0 +1,15 @@
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 30\Trabajo 30\bin\Debug\Trabajo 30.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 30\Trabajo 30\bin\Debug\Trabajo 30.pdb
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 30\Trabajo 30\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.exe
+J:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.pdb
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.exe
+H:\Trabajos\Universidad\1er Cuatrimestre\Melgem 1 D\Trabajos de Visual\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.pdb
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.exe
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.pdb
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 30\Trabajo 30\bin\Debug\Trabajo 30.exe
+E:\UTT\1°Tetra\Trabajos de Visual\Trabajo 30\Trabajo 30\bin\Debug\Trabajo 30.pdb
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.exe
+D:\UTT\1°Tetra\Trabajos de Visual\Trabajo 30\Trabajo 30\obj\x86\Debug\Trabajo 30.pdb

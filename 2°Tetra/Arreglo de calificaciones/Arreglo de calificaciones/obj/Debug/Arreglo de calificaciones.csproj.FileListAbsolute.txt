@@ -1,0 +1,21 @@
+C:\Users\juanC\Documents\Todo lo de redes\Arreglo de calificaciones\Arreglo de calificaciones\bin\Debug\Arreglo de calificaciones.exe.config
+C:\Users\juanC\Documents\Todo lo de redes\Arreglo de calificaciones\Arreglo de calificaciones\bin\Debug\Arreglo de calificaciones.exe
+C:\Users\juanC\Documents\Todo lo de redes\Arreglo de calificaciones\Arreglo de calificaciones\bin\Debug\Arreglo de calificaciones.pdb
+C:\Users\juanC\Documents\Todo lo de redes\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.csprojResolveAssemblyReference.cache
+C:\Users\juanC\Documents\Todo lo de redes\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo_de_calificaciones.Form1.resources
+C:\Users\juanC\Documents\Todo lo de redes\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo_de_calificaciones.Properties.Resources.resources
+C:\Users\juanC\Documents\Todo lo de redes\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.csproj.GenerateResource.Cache
+C:\Users\juanC\Documents\Todo lo de redes\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.exe
+C:\Users\juanC\Documents\Todo lo de redes\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.pdb
+C:\Users\juanC\Documents\Todo lo de programacion\Arreglo de calificaciones\Arreglo de calificaciones\bin\Debug\Arreglo de calificaciones.exe.config
+C:\Users\juanC\Documents\Todo lo de programacion\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.exe
+C:\Users\juanC\Documents\Todo lo de programacion\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.pdb
+C:\Users\juanC\Documents\Todo lo de programacion\Arreglo de calificaciones\Arreglo de calificaciones\bin\Debug\Arreglo de calificaciones.exe
+C:\Users\juanC\Documents\Todo lo de programacion\Arreglo de calificaciones\Arreglo de calificaciones\bin\Debug\Arreglo de calificaciones.pdb
+C:\Users\juanC\Documents\Todo lo de programacion\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.csprojResolveAssemblyReference.cache
+C:\Users\juanC\Documents\Todo lo de programacion\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo_de_calificaciones.Form1.resources
+C:\Users\juanC\Documents\Todo lo de programacion\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo_de_calificaciones.Properties.Resources.resources
+C:\Users\juanC\Documents\Todo lo de programacion\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.csproj.GenerateResource.Cache
+G:\Arreglo de calificaciones\Arreglo de calificaciones\bin\Debug\Arreglo de calificaciones.exe.config
+G:\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.exe
+G:\Arreglo de calificaciones\Arreglo de calificaciones\obj\Debug\Arreglo de calificaciones.pdb

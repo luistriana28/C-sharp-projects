@@ -1,0 +1,35 @@
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Escuela.mdf
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Escuela_log.ldf
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.Form1.resources
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.Properties.Resources.resources
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.exe
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.pdb
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.manifest
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.application
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.exe.manifest
+J:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.application
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.exe
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.pdb
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Escuela.mdf
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Escuela_log.ldf
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.manifest
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.application
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.Form1.resources
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.Properties.Resources.resources
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.exe.manifest
+M:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.application
+D:\UTT\2°Tetra\Programacion\Trabajos en Visual\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+D:\UTT\2°Tetra\Programacion\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.exe
+D:\UTT\2°Tetra\Programacion\Trabajos en Visual\Calificaciones\Calificaciones\obj\x86\Debug\Calificaciones.pdb

@@ -1,0 +1,11 @@
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\bin\Debug\Prac4.exe.config
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\bin\Debug\Prac4.exe
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\bin\Debug\Prac4.pdb
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\obj\Debug\Prac4.csprojResolveAssemblyReference.cache
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\obj\Debug\Prac4.Form1.resources
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\obj\Debug\Prac4.Properties.Resources.resources
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\obj\Debug\Prac4.csproj.GenerateResource.Cache
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\obj\Debug\Prac4.exe
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\obj\Debug\Prac4.pdb
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\bin\Debug\ClaseArreglos.dll
+c:\users\luismartin\documents\visual studio 2012\Projects\Prac4\Prac4\bin\Debug\ClaseArreglos.pdb

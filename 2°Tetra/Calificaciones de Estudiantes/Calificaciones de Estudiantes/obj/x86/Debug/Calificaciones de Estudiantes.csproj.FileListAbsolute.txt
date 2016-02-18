@@ -1,0 +1,17 @@
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\bin\Debug\Calificaciones de Estudiantes.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\bin\Debug\Calificaciones de Estudiantes.pdb
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones_de_Estudiantes.Form1.resources
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones_de_Estudiantes.Properties.Resources.resources
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.exe
+Y:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.pdb
+H:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.exe
+H:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.pdb
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.exe
+G:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.pdb
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.exe
+L:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.pdb
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.exe
+E:\Trabajos\Universidad\2do Cuatrimestre\Trabajos en Visual\Calificaciones de Estudiantes\Calificaciones de Estudiantes\obj\x86\Debug\Calificaciones de Estudiantes.pdb
